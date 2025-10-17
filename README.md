@@ -7,7 +7,7 @@
 <h3 align="center">📬 Contact</h3>
 <p align="center">
   <a href="mailto:tnvjdbs@naver.com">
-    <img src="https://img.shields.io/badge/yjm020500@naver.com-126304?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/tnvjdbs@naver.com-126304?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/stockfail" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
